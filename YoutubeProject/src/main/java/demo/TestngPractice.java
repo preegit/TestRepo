@@ -7,6 +7,7 @@ public class TestngPractice {
 	public void loginTest()
 	{
 		System.out.println("login complete");
+		System.out.println("login initiated");
 	}
 	@Test
 	public void logoutTest() {
